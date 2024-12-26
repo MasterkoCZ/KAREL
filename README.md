@@ -39,6 +39,7 @@ V této verzi běží vše lokálně ve vašem prohlížeči bez potřeby server
 ---
 
 ### Serverová Verze (HTML, CSS, PHP)
+![Serverová Verze](images/Karel_php.png)
 
 Tato verze používá server pro zpracování herní logiky. Klient odesílá příkazy na server pomocí HTTP požadavků, server zpracuje příkazy a vrátí aktualizovaný stav hry.
 
