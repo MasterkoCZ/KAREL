@@ -22,7 +22,3 @@ Karel je jednoduchá hra, kde robot "Karel" může vykonávat příkazy na 2D he
 - **style.css**: Styly pro vzhled hry, velikost buněk, vzhled Karla a další.
 - **script.js**: JavaScript soubor pro logiku pohybu Karla, otáčení, umisťování objektů a zpracování příkazů.
 
-## Licence
-
-Tento projekt je k dispozici pod licencí MIT. Pro více informací se podívejte na soubor `LICENSE`.
-
