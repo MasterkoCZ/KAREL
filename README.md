@@ -19,7 +19,7 @@ Existují dvě verze tohoto projektu:
 - **RESET**: Resetuje hru, vrátí Karla do levého horního rohu herního pole.
 
 ### Klientská Verze (HTML, CSS, JavaScript)
-![Klientská Verze](images/Karel js.png)
+![Klientská Verze](images/Karel_js.png)
 
 V této verzi běží vše lokálně ve vašem prohlížeči bez potřeby serveru. Herní pole je generováno a příkazy jsou zpracovávány pomocí JavaScriptu.
 
